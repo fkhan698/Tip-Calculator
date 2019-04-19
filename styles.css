@@ -1,0 +1,190 @@
+body {
+    font-family: Montserrat;
+    background-color: #E7FAFF
+}
+
+.content {
+    margin-bottom: 100px;
+}
+
+.intro {
+    margin-top: 0px;
+}
+
+.nav-link:hover {
+    color: green;
+}
+
+.nav-link {
+    color: black;
+}
+
+.nav {
+    background-color: white;
+    margin-bottom: 25px;
+}
+
+#header {
+  
+    background: url("file:///Users/faizankhan/Desktop/Web%20Development%20Projects/Overly%20Done%20Tip%20Calculator/imgs/dollars.jpg") center center / cover no-repeat;
+    width: 100%;
+    height: 50rem;
+    border-color: black;
+    border-width: 1px;
+    border-style: solid;
+   
+    
+}
+
+.display-1 {
+    margin-top: 100px;
+   justify-content: center;
+    font-family: Pacifico;
+    color: white;
+    
+}
+
+.img-fluid {
+    border-color: #000000;
+    border-width: 2px;
+    border-style: solid;
+    width: 100%;
+    border-radius: 25px;
+    height: 500px;
+    
+}
+
+.blurb h2 {
+    color: black;
+    font-weight: 100;
+    font-size: 2.5rem;
+}
+
+.blurb p {
+    color: black;
+    font-weight: 100;
+    font-size: 1.1.25rem;
+    line-height: 2;
+}
+
+#CalcContainer {
+    align-content: center;
+    text-align: center;
+    border-color: black;
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 25px;
+}
+
+#billAmnt {
+    margin-bottom: 40px;
+    padding-right: 30px;
+    padding-left: 5px;
+}
+
+#numOfPeople {
+    margin-top: 40px;
+    padding-right: 30px;
+}
+
+#peopleAmt{
+    padding-left: 10px;
+}
+#serviceQual{
+    width: 200px;
+}
+
+
+.button {
+    margin-top: 40px;
+    margin-bottom: 10px;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-weight: bold;
+
+}
+
+#totalTip {
+    margin-top: 30px;
+    margin-bottom: 20px;
+    font-size: 25px;
+}
+
+#gallery {
+    margin-top: 50px;
+}
+.card-img-top {
+    height: 100%;
+    width: 100%;
+}
+
+.card{
+  height: 300px;
+   border-color: black;
+   border-width: 1px;
+   border-style: solid;
+   
+}
+
+#about {
+    margin-top: 50px;
+    align-content: center;
+    text-align: center;
+}
+
+#jumbotron {
+    margin-bottom: 500px;
+    background-color: white;
+}
+
+.icons {
+    margin-top: 50px;
+    color: black;
+    padding-right: 50px;
+    width: 100px;
+    height: 100px;
+    font-size: 55px;
+}
+
+.icons:hover {
+  color: black;
+}
+
+.jumbotron {
+
+    border-color: #000000;
+    border-width: 1px;
+    border-style: solid;
+}
+
+
+
+  @media (max-width: 449px){
+    .display-1 {
+     font-size: 75px;
+  }
+
+  #header {
+      width: 100%;
+  }
+  #serviceQual {
+      padding-right: 100px;
+  }
+  .icons{
+      margin-right: 5px;
+  }
+}
+
+@media (max-width: 991px){
+    .card-img-top{
+        width: 100%;
+        height: 100%;
+        margin-bottom: 25px;
+    }
+    #about {
+        margin-top: 200px;
+    }
+}
+
+
+
