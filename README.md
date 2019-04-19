@@ -1,0 +1,2 @@
+# Tip-Calculator
+An Overly Done Tip Calculator for when you don't remember how to calculate a tip, because you suck at math. Providing a good tip is an essential part to contributing to society. Some may even say that it is more important than paying your taxes. I wouldn't know, because I don't do either /s. Either way, here at WebDevInternationalWorldWide we/I have created a Tip Calculator for when you are pancicking and don't know how much to tip. It has saved many lives, and it may ultimately save yours. 
