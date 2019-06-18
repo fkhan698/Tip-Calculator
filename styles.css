@@ -25,7 +25,7 @@ body {
 }
 
 #header {
-  
+    
     background: url("file:///Users/faizankhan/Desktop/Web%20Development%20Projects/Overly%20Done%20Tip%20Calculator/imgs/dollars.jpg") center center / cover no-repeat;
     width: 100%;
     height: 50rem;
@@ -45,6 +45,7 @@ body {
 }
 
 .img-fluid {
+    
     border-color: #000000;
     border-width: 2px;
     border-style: solid;
